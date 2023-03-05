@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=transparent&text=Kim%20JunHee&fontColor=577c9d)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=Kim%20JunHee&fontColor=5F9EA0)
 
 
 
