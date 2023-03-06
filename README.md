@@ -4,9 +4,10 @@
 
 
 
-####  :raised_hands: 안녕하세요, 김준희입니다.
-####  :telephone_receiver: 010-4789-0162
-####  :e-mail: joooonh12@gmail.com
+####  🙌 안녕하세요, 김준희입니다.
+####  📞 010-4789-0162
+####  📬 joooonh12@gmail.com
+####  💻 https://kkanjun.tistory.com/
 
 <br/>
 <br/>
