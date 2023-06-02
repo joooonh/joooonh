@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Kim%20JunHee&fontColor=5F9EA0)
 
-<img src="">
+<img width="1000" height="300" src="https://github.com/joooonh/joooonh/assets/116352772/9c610db0-ae15-4562-85cc-57ed635b6c9a">
 
 ###  📬 Email 📬 
   joooonh12@gmail.com
