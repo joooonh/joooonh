@@ -2,17 +2,15 @@
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&text=Kim%20JunHee&fontColor=5F9EA0)
 
+<img src="">
+
+###  📬 Email 📬 
+  joooonh12@gmail.com
+###  💻 SNS 💻
+  https://kkanjun.tistory.com/
 
 
-####  🙌 안녕하세요, 김준희입니다.
-####  📞 010-4789-0162
-####  📬 joooonh12@gmail.com
-####  💻 https://kkanjun.tistory.com/
-
-<br/>
-<br/>
-
-####  :pencil2: Studying
+###  📚 Tech Stack 📚
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -24,8 +22,12 @@
 <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=SpringSecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse&logoColor=white" />
+<br/>
+<img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white" />
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
 
-
+  
+<br/>
 <br/>
 <br/>
 
