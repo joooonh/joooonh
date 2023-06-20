@@ -30,8 +30,4 @@
 <br/>
 <br/>
 <br/>
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=joooonh&show_icons=true">
-
 </div>
