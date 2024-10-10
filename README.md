@@ -6,8 +6,6 @@
 
 ###  📬 Email 📬 
   joooonh12@gmail.com
-###  💻 SNS 💻
-  https://kkanjun.tistory.com/
 
 
 ###  📚 Tech Stack 📚
